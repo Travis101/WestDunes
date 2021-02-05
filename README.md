@@ -25,7 +25,7 @@ Contact @West-March-Planners in Discord if you find any typos or inaccuracies.
 
 Before you start play, consider the following:
 
-- Dont be a wangrod!
+- Dont be a dick!
 - Use common sense! Don't be that guy!
 - Timeout: if you are uncomfortable with anything that happens in the game, just say timeout and the DM will take a break and give everyone a chance to address the issue.
 - By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. Includes touching other peoples possessions.
@@ -46,29 +46,21 @@ You are free to join any of these sessions (though we do prioritize players who 
 
 There are many ways you can help make the campaign fun and successful. Engaging with your fellow players is a fantastic way to start. Make everyone feel welcome!
 
-- You can always go the extra mile by signing up to be one of our terrific DMs using the Dungeon Master Application.
 - We are always looking for innovative ideas for improving the campaign. Any ideas you may have can be submitted through the Idea Submission form.
-- As we all know, sometimes things can get heated when people are discussing something they love as much as D&D, if you would like to help people and build the community in an official capacity, please apply here: Moderator Application.
-- Organized play programs require a lot of coordination. Rules updates, campaign direction, and arguing over minutia are in your future if you dare to submit a Planner Application.
-- If you have ANY ideas, make a detailed suggestion (including exact rules of how it would work) to organizers and they will discuss it. If you feel the game is missing crafting rules or you want to establish a faction, dont expect anyone else to do the work for you - just write up rules for it and bring it to the organizers for review. Check Chapter 7 fordetails.
 - If you promise to do something and if you for any reason dont want to do it anymore, PLEASE tell someone!
 
 ## Part 1. Character Creation ##
-The Colvillian West Marches has guidelines for character creation. These rules help to keep the game fair and balanced for everyone involved. The rules are reviewed in Planner meetings and by DM voting. Many Homebrew and UA options have not been reviewed at this time. Others have been reviewed and explicitly allowed or denied and are noted below.
+The West Dunes has guidelines for character creation. These rules help to keep the game fair and balanced for everyone involved. Some decisions were made based on the setting. 
 
 ### Character Sheet ###
 
-Dungeon Masters may run games using any variety of media. This may include their own Roll20 server, Fantasy Grounds, or in Discord using Avrae. As such, you are not required to create your character in any specific format, nor are you required to have any DM or Organizer inspect your character sheet. 
-
-#### Paid Tools and CWM ####
-
-Our West Marches game is open to all. While you are free to use a tool such as Fantasy grounds to run your games, you must be able to offer that option free to players. This typically means having the Ultimate version in the case of Fantasy Grounds. You can always run your games on Discord using Avrae or Roll20. Other options are possible, if they cost the players no money.
+We will use DNDBeyond for our Character Sheets. 
 
 #### Starting Level ####
 
-All new characters start at 3rd level with 900/2700 XP. Upon PC death, where Dead PC's level is X, a new PC may be made at the lowest level of the level tier X is in:
+All new characters start at 1st level with 0 XP. Upon PC death, where Dead PC's level is X, a new PC may be made at the lowest level of the level tier X is in:
 
-- Tier 1: 3
+- Tier 1: 1-3
 - Tier 2: 4-7
 - Tier 3: 8-11
 - Tier 4: 12-15
@@ -78,14 +70,11 @@ The new character can also be the lowest level of a lower tier. I.e. Peggy dies 
 
 #### Hit Points ####
 
-You may either roll your hit points or use the average. If you choose to roll, you must keep it. Each level you may decide which way to generate the HP for that level.
+We will use the fixed hitpoint system.
 
 #### Ability Scores ####
 
-Ability scores are rolled in the #randchar_rolls channel in the discord. No chats are allowed in that channel and any questions should be asked in the #ask-dm-questions channel. Use the !randchar command. This command will roll using the 4d6 drop the lowest method, rolling for all six ability scores. The scores are assigned to the abilities in order [Str, Dex, Con, Int, Wis, Cha]. Rerolling Abilities You may reroll until either of the following two occurs:
-
-- You are satisfied with the roll.
-- You have rolled at least two abilities that are 15 or higher Abilities will be confirmed by an Moderator or DM.
+We will use the standard 27 point, point buy system. 
 
 #### Character Races ####
 
@@ -100,6 +89,27 @@ Character races have the following restrictions:
   - Orc
   - Yuan-ti
 - No Unearthed Arcana races
+
+
+Gnome
+Half-Orc
+Halfling
+Human
+Minotaur 
+Tabaxi
+Genasi
+
+Centaur
+Dwarf
+Half-Elf
+Leonin
+Satyr
+
+Elf 
+Loxodon
+Verdan
+Firbolg
+Goliath
 
 #### Character Classes ####
 
