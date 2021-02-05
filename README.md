@@ -80,36 +80,31 @@ We will use the standard 27 point, point buy system.
 
 Character races have the following restrictions:
 
-- No races with a flying speed
-- No monstrous races
-  - Bugbear
-  - Goblin
-  - Hobgoblin
-  - Kobold
-  - Orc
-  - Yuan-ti
-- No Unearthed Arcana races
+- Common Races
+- - Gnome [Deep, Rock]
+- - Half-Orc [Base] 
+- - Halfling [Ghostwise, Lightfoot, Lotusden, Stout]
+- - Human [Base or Variant]
+- - Minotaur [Base] 
+- - Tabaxi [Base] 
+- - Genasi [Air, Earth, Fire] 
 
+- Uncommon Races
+- - Centaur [Base] 
+- - Dwarf [Gray, Hill, Mountain]
+- - Half-Elf [Base, Drow, High]
+- - Leonin [Base] 
+- - Satyr [Base] 
 
-Gnome
-Half-Orc
-Halfling
-Human
-Minotaur 
-Tabaxi
-Genasi
+- Rare Races
+- - Elf [High, Eladrin]
+- - Loxodon [Base] 
+- - Verdan [Base] 
+- - Firbolg [Base] 
+- - Goliath [Base] 
 
-Centaur
-Dwarf
-Half-Elf
-Leonin
-Satyr
+Please reach out to me if you want to play a different race and we can discuss it. 
 
-Elf 
-Loxodon
-Verdan
-Firbolg
-Goliath
 
 #### Character Classes ####
 
