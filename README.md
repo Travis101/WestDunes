@@ -4,17 +4,10 @@ West Dunes Info
 
 This repository contains the information for the Colvillian West Marches game.
 
-# A Player's Guide to the Colvillian West Marches Campaign. #
+# A Player's Guide to the West Dunes Campaign. #
 
-Last Update: 8/21/2017 1230 PST
-Report Errors to: @Triaxcore[Spurius]
-Triaxcore
-Author
-Version: 1.03
-Development: @Metalmine, and the planners and DMs of the Colvillian West Marches
-Editing: @Emerentia
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-
+Last Update: Feb 5 2021 
+Report Errors to: Travis [MrTravisMurray#3147]
 
 ## Table of Contents ##
 
@@ -23,9 +16,7 @@ Not for resale. Permission granted to print or photocopy this document for perso
 
 ## Introduction ##
 
-Welcome to Farwater, a small outpost on the frontier of a newly discovered continent. Although not known to the inhabita
-nts of Collabris, it cannot be said that no one has been here before. Great dangers lurk in the wilderness. Orcs, sahuag
-in, grung, yuan-ti and other vile things wait for the brave, curious, and greedy.
+Welcome to Farwater, a small outpost in the center of the ancient country of Herdaz. Although not known to the inhabitants of Springdale, it cannot be said that no one has explored Herdaz before. Great dangers lurk in the wilderness for the brave, curious, and greedy.
 General Information
 This section covers the basic information and general rules of the campaign. Welcome and enjoy!
 Contact @West-March-Planners in Discord if you find any typos or inaccuracies.
@@ -38,14 +29,18 @@ Before you start play, consider the following:
 - Use common sense! Don't be that guy!
 - Timeout: if you are uncomfortable with anything that happens in the game, just say timeout and the DM will take a break and give everyone a chance to address the issue.
 - By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. Includes touching other peoples possessions.
+
+[WORK ON] 
+
 - #randchar_rolls and #general_bot channels are not for chatting. #randchar_rolls should only be used for !randchar rolls. Any other rolls belong in the game channel you are playing in or #general_rolls.
 - #General is for general chat only. Questions should go to #Questions. All channels have a purpose and their names are good indicators of what should go in them.
 
-## West Marches Campaign ##
+## West Dunes Campaign ##
 
-&emsp; Matthew Colville recorded a video on West Marches that can be found here. West Marches is a campaign style coined by Ben Robins, though its basic principles reflect how D&D was typically played. This campaign is played using Discord and Roll20. 
-&emsp; Once you have created a character, you can find adventurers in either #dm-quest-posting or #player-quest-request channels. You are free to join any of these sessions (though we do prioritize players who havent played in a long time) by messaging the DM or the player posting the quest, or asking in the #request-discussions channel.
-&emsp; The adventurers begin in the town of Farwater. The town has an inn and access to basic goods. The town of Farwater and any potential future settlements can be upgraded with the money you earn from your adventuring. The DMs have access to an objective hex map, but players and their characters do not know the exact layout of the world, and thus must figure out the layout of the land based on their adventures.
+This campaign is played using Discord, DNDBeyond and Roll20. 
+&emsp; Once you have created a character, you can find adventurers in either #dm-quest-posting or #player-quest-request channels. 
+You are free to join any of these sessions (though we do prioritize players who havent played in a long time) by messaging the DM or the player posting the quest, or asking in the #request-discussions channel.
+&emsp; The adventurers begin in the town of Farwater. The town has an inn and access to basic goods. The town of Farwater and any potential future settlements can be upgraded with the resources you earn from your adventuring. The DMs have access to an objective hex map, but players and their characters do not know the exact layout of the world, and thus must figure out the layout of the land based on their adventures.
 
 ## How Can I Help? ##
 
