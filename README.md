@@ -81,49 +81,48 @@ We will use the standard 27 point, point buy system.
 Character races have the following restrictions:
 
 - Common Races
-- - Gnome [Deep, Rock]
-- - Half-Orc [Base] 
-- - Halfling [Ghostwise, Lightfoot, Lotusden, Stout]
-- - Human [Base or Variant]
-- - Minotaur [Base] 
-- - Tabaxi [Base] 
-- - Genasi [Air, Earth, Fire] 
+  - Gnome [Deep, Rock]
+  - Half-Orc [Base] 
+  - Halfling [Ghostwise, Lightfoot, Lotusden, Stout]
+  - Human [Base or Variant]
+  - Minotaur [Base] 
+  - Tabaxi [Base] 
+  - Genasi [Air, Earth, Fire] 
 
 - Uncommon Races
-- - Centaur [Base] 
-- - Dwarf [Gray, Hill, Mountain]
-- - Half-Elf [Base, Drow, High]
-- - Leonin [Base] 
-- - Satyr [Base] 
+  - Centaur [Base] 
+  - Dwarf [Gray, Hill, Mountain]
+  - Half-Elf [Base, Drow, High]
+  - Leonin [Base] 
+  - Satyr [Base] 
 
 - Rare Races
-- - Elf [High, Eladrin]
-- - Loxodon [Base] 
-- - Verdan [Base] 
-- - Firbolg [Base] 
-- - Goliath [Base] 
+  - Elf [High, Eladrin]
+  - Loxodon [Base] 
+  - Verdan [Base] 
+  - Firbolg [Base] 
+  - Goliath [Base] 
 
 Please reach out to me if you want to play a different race and we can discuss it. 
 
 
 #### Character Classes ####
 
-The following character classes are allowed:
-
-- Player's Handbook
-- Sword Coast Adventurers Guide
-- Accepted Unearthed Arcana
+Any official class and subclass is allowed. UA/playtest is not allowed. 
 
 #### Feats ####
 
 The following are the feats allowed or disallowed:
 
 - NOT Allowed - Lucky
-- Accepted Unearthed Arcana
 
 #### Starting Equipment ####
 
-Players may choose to use the starting equipment given by their characters class and background or they can roll the starting wealth. Either way, they also start with an additional 1d4x10 gp. If you have gotten this far in the guide, please message @Metalmine with your favorite fruit.
+Players may choose to use the starting equipment given by their characters background. They do not get the starting equipment from their class.  
+
+Also, choose one (1) from:  greataxe, quarterstaff (as a weapon or druidic focus), maul, shortsword, shortbow, shield with a holy symbol, scale mail armour, lute, thieves tools, spellbook, components pouch, arcane focus. 
+
+All other weapons, armor and equipement will be earned by playing. 
 
 #### Spells ####
 
@@ -133,7 +132,7 @@ The following spells are not allowed:
 
 ### Character Development ###
 
-Character development relies heavily on the player. Please be sure your character has a reason for having come to Farwater. From there you can develop your character in the role-play channels. You may also request quests that help to progress your characters story or goals. Individual DMs are not likely to know the narrative of your character. You will need to share that with them if you expect it to be written into a quest.
+Character development relies heavily on the player. Please be sure your character has a reason for having come to Farwater. From there you can develop your character in the role-play channels. You may also request quests that help to progress your characters story or goals. 
 
 ### Gods ###
 
@@ -141,11 +140,7 @@ The pantheon used is the Forgotten Realms one.
 
 ### Backup Characters ###
 
-You may create a single backup character. That character may be used for RP purposes only, until your primary character dies or is permanently retired. Character Backstory New characters must have a dissimilar persona and name from your previous 3 characters, at the discretion of the Planners and Moderators.
-
-### PC Registration ###
-
-If you have not yet filled out the PC registration, please register your characters here. You may also View Registered Players.
+You may create a single backup character. That character may be used for RP purposes only, until your primary character dies or is permanently retired. Character Backstory New characters must have a dissimilar persona and name from your previous 3 characters, at the discretion of the DM.
 
 ## Part 2. Questing ##
 
