@@ -60,11 +60,11 @@ We will use DNDBeyond for our Character Sheets.
 
 All new characters start at 1st level with 0 XP. Upon PC death, where Dead PC's level is X, a new PC may be made at the lowest level of the level tier X is in:
 
-- Tier 1: 1-3
-- Tier 2: 4-7
-- Tier 3: 8-11
-- Tier 4: 12-15
-- Tier 5: 16-20
+- Rank 1: 1-3
+- Rank 2: 4-7
+- Rank 3: 8-11
+- Rank 4: 12-15
+- Rank 5: 16-20
 
 The new character can also be the lowest level of a lower tier. I.e. Peggy dies at level 11, the new character can be a maximum of level 8, but could start at level 3 or 4 or 8.
 
