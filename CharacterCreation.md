@@ -102,3 +102,10 @@ Yes, this means that you are not starting with many resources you might be used 
 
 # Feats #
 Currently no feats are banned. 
+
+# Character Development #
+
+Character development relies heavily on the player. Please be sure your character has a reason for helping in Farwater. 
+
+# Relationships # 
+You will likely be friends with all of other player characters in this game, but you should establish one connection that is especially strong. This can be either with one of the other players, or an established NPC. 
