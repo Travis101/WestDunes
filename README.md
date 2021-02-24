@@ -37,8 +37,12 @@ All non-rules discussion will be considered to be said in game. Unless your char
 If you are not in the current scene or unconsious, please consider muting yourself. Speaking up regarding rules mistakes is allowed, speaking up because of missed queues or strategy is not allowed. 
 
 Examples:
-"I can't attack because I am grappled" - "Grappling actually does not prevent you from attacking" - Allowed
-"I don't want to move because they will get an attack of opportunity" - "That monster already used their reaction so you can" - Not Allowed
+- Allowed:
+  - Player: "I can't attack because I am grappled" 
+  - Reply: "Grappling actually does not prevent you from attacking" 
+- Not Allowed
+  - Player: "I don't want to move because they will get an attack of opportunity" 
+  - Reply: "That monster already used their reaction so you can" 
 
 ### House Rules ###
 
