@@ -1,3 +1,10 @@
+# Character Preferences # 
+
+Playtest Content should be off. 
+Optional Features are allowed. 
+Advancement Type: XP
+Use Prerequisites: Both On
+
 # Race # 
 
 Race selection and alignment is not exactly the same as in the Forgotten Realms. 
@@ -44,6 +51,9 @@ You are able able to use the Custom Lineage options. If you do, please declare t
 # Spells #
 No official spells are banned, BUT you should know that spells that create water or food will not work at levels 1-3. 
 For example, you are able to select Goodberry as a spell, but you will not be able to cast it at level 1. 
+
+# Ability Scores #
+We will use the standard 27 point, point buy system. 
 
 # Background #
 Because of our unusual starting circumstances, no one will be a "Sage" or a "Criminal". 
