@@ -73,7 +73,7 @@ Do NOT add starting equipment as normal, please instead manually add:
 - 1 mess kit
 - 1 backpack
 
-- Choose one (1) from:
+- Choose one (1) from your parent:
   - greataxe
   - quarterstaff (also a druidic focus)
   - maul
@@ -87,14 +87,14 @@ Do NOT add starting equipment as normal, please instead manually add:
   - components pouch
   - arcane focus
 
-- Choose one (1) from: 
+- Choose one (1) from the rubble of your home:
   - A Holy Symbol
   - Horn
   - Crowbar
   - a bottle of black in and a quill
   - A set of artisan’s tools with which you are proficient
 
-- Choose one (1) from:
+- Choose one (1) from the rubble around the town:
   - Club
   - Greatclub
 
