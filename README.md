@@ -118,10 +118,10 @@ We will use DNDBeyond for our Character Sheets.
 
 In addition to Character Levels, players will have ranks in this game. If a player manages to get a character to specific levels, they are able to rank up. This means that if they need to create a new character they will have a new level to choose from to create the character at. 
 
-Rank | Level | Starting Level
------------- | -------------
+Player Rank | Highest Level Reached | New Starting Level
+------------ | ------------- | -------------
 Apprentice | 1-3 | 1
-Vetran | 4-7 | 4 or lower
+Veteran | 4-7 | 4 or lower
 Hero | 8-11 | 8 or lower
 Champion | 12-15 | 12 or lower
 Lord | 16-20 | 16 or lower
