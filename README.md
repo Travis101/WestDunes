@@ -1,7 +1,7 @@
 # A Player's Guide to the West Dunes Campaign. #
 
-Last Update: Feb 5 2021 
-Report Errors to: Travis [MrTravisMurray#3147]
+Last Update: Feb 24 2021 
+Report Errors to: Travis [discord: MrTravisMurray#3147]
 
 All rules here are subject to change. If any wording is unclear or misunderstood, the DMs table ruling is the correct one. 
 
