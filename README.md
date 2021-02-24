@@ -1,39 +1,125 @@
-# WestDunes
-West Dunes Info
-
-
-This repository contains the information for the Colvillian West Marches game.
-
 # A Player's Guide to the West Dunes Campaign. #
 
 Last Update: Feb 5 2021 
 Report Errors to: Travis [MrTravisMurray#3147]
 
-## Table of Contents ##
-
-[TOC]
-
-
 ## Introduction ##
 
-Welcome to Farwater, a small outpost in the center of the ancient country of Herdaz. Although not known to the inhabitants of Springdale, it cannot be said that no one has explored Herdaz before. Great dangers lurk in the wilderness for the brave, curious, and greedy.
-General Information
+Welcome to Farwater, a small outpost in the center of the ancient country of Herdaz. Although not known to the inhabitants of Farwater, it cannot be said that no one has explored Herdaz before. Great dangers lurk in the wilderness for the brave, curious, and greedy.
+
+## The Story  ##
+You have lived in this town your entire life. Your parents were part of the town guard and were always there to protect you. Until they weren't. 
+
+Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of youngsters who need to protect the children still alive in your town. 
+
+As you comb through the rubble of your home, you find something of your parents... you will start the game with some of their equipement. 
+
+ # General Information #
 This section covers the basic information and general rules of the campaign. Welcome and enjoy!
-Contact @West-March-Planners in Discord if you find any typos or inaccuracies.
+
 
 ## General Rules ##
 
 Before you start play, consider the following:
 
+#### Table Rules ####
+
 - Dont be a dick!
-- Use common sense! Don't be that guy!
+- Use common sense! Don't be that person!
 - Timeout: if you are uncomfortable with anything that happens in the game, just say timeout and the DM will take a break and give everyone a chance to address the issue.
 - By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. Includes touching other peoples possessions.
 
-[WORK ON] 
+#### Table Talk ####
+All non-rules discussion will be considered to be said in game. Unless your character has telepathy, they are not able to share strategy without others hearing. 
 
-- #randchar_rolls and #general_bot channels are not for chatting. #randchar_rolls should only be used for !randchar rolls. Any other rolls belong in the game channel you are playing in or #general_rolls.
-- #General is for general chat only. Questions should go to #Questions. All channels have a purpose and their names are good indicators of what should go in them.
+If you are not in the current scene or unconsious, please consider muting yourself. Speaking up regarding rules mistakes is allowed, speaking up because of missed queues or strategy is not allowed. 
+
+Examples:
+"I can't attack because I am grappled" - "Grappling actually does not prevent you from attacking" - Allowed
+"I don't want to move because they will get an attack of opportunity" - "That monster already used their reaction so you can" - Not Allowed
+
+#### House Rules ####
+
+#### Inspiration ####
+
+How it works: 
+
+#### Flanking ####
+
+How it works: 
+
+#### When you reach zero hit points ####
+
+How it works: 
+
+#### drink potions ####
+
+bonus actions?
+
+#### Pass items ####
+
+free action to drop something. 
+action to place or pass something
+reaction to catch something not on your turn
+bonus action to pick up a non-heavy item. 
+
+Feat at first level?
+
+#### Crits ####
+Crits do max extra damage for the weapon damage. This does not extend to extra modifiers like smites. 
+
+#### Rations ####
+
+#### Initiative ####
+
+players may opt for a lower initiative if they wish.  
+
+#### Stealth ####
+I will assume you are always stealthing if you do not say otherwise. 
+
+#### Ammunition ####
+
+Mobs? https://www.dndbeyond.com/sources/dmg/running-the-game#HandlingMobs
+
+#### I know someone ####
+
+#### I have a thing for that ####
+
+#### Critical misses  ####
+
+If someone makes a critical miss, others within melee range can spend their reaction to take an attack of opportunity. 
+
+#### Languages ####
+An extra one for each int. 
+
+#### Drinking Potions ####
+If you have an empty hand, you can draw and drink a potion as a bonus action. It still requires a full action to feed a potion to someone else. 
+
+#### Surprise Round? ####
+
+#### Rests ####
+
+Long Rests require a place with a shelter and at least 8 hours long, during which a character sleeps for at least 6 hours and performs no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
+
+Short rests require at least 1 hour, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+
+Generally speaking, a short or long rest cannot be taken is hostile territory unless you find a secure location. Instead you make take a "Breather", which only takes 10 minutes and allows you to roll one hit dice for healing. Other abilities do not reset on a Breather. 
+
+
+
+#### Rule of Cool ####
+
+If you want to do something really cool, but not really something covered by the rules, please ask and I will consider it. Typically something allowed by this rule cannot be repeated. 
+
+#### Cover ####
+
+#### Exhaustion ####
+
+#### Mundane Purchased ####
+
+It is assumed that your characters will always loot monsters and collect the silver and copper. I will not be rolling for these types of currency. In exchange, you will always have pocket change for your own mundane purchases, such as a couple of beers, stew, etc. Anything that costs a gold or more still needs to be paid, such as buying a round for the whole bar. 
+
+
 
 ## West Dunes Campaign ##
 
@@ -70,11 +156,6 @@ The new character can also be the lowest level of a lower tier. I.e. Peggy dies 
 
 #### Hit Points ####
 
-We will use the fixed hitpoint system.
-
-#### Ability Scores ####
-
-We will use the standard 27 point, point buy system. 
 
 #### Character Races ####
 
