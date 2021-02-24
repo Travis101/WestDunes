@@ -1,9 +1,25 @@
 # Rules #
 These are rules that we will be playing with, that are either house rules, commonly overlooked rules, or FAQs around certain rules that are worth answering ahead of time. 
-
-#### House Rules Rule ####
-
 These will change and can change mid game if needed. 
+
+## Table Rules ##
+
+#### Co-op ####
+This is a coop game. Non consentual PVP, stealing from other players or anything else aggresive will not be allowed. 
+
+#### Manners ####
+We are all here to have fun. Treat each other with respect, even if you do not agree with their decisions in game. 
+
+#### Table Talk ####
+All non-rules discussion will be considered to be said in game. Unless your character has telepathy, they are not able to share strategy without others hearing. 
+
+If you are not in the current scene or unconsious, please consider muting yourself. Speaking up regarding rules mistakes is allowed, speaking up because of missed queues or strategy is not allowed. 
+
+Examples:
+"I can't attack because I am grappled" - "Grappling actually does not prevent you from attacking" - Allowed
+"I don't want to move because they will get an attack of opportunity" - "That monster already used their reaction so you can" - Not Allowed
+
+## House Rules ##
 
 #### Inspiration ####
 
