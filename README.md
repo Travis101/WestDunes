@@ -14,7 +14,7 @@ You have lived in this town your entire life. Your parents were part of the town
 
 Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of youngsters who need to protect the children still alive in your town. 
 
-As you comb through the rubble of your home, you find something of your parents... you will start the game with some of their equipement. 
+As you comb through the rubble of your home, you find something belonging to your parents... you will start the game with some of their equipment. 
 
  # General Information #
 This section covers the basic information and general rules of the campaign. Welcome and enjoy!
