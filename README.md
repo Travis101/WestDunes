@@ -66,7 +66,7 @@ To be counted as flanking a creature must be:
 
 If you have an empty hand, you can draw and drink a potion as a bonus action or as an action, your choice. It still requires a full action to feed a potion to another character. 
 
-#### Pass items ####
+#### Passing Items ####
 
 - You can drop an item as a free action anytime. 
 - You can place an item carefully, or pass an item to someone as an action. 
