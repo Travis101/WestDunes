@@ -12,7 +12,7 @@ Welcome to Farwater, a small outpost in the center of the ancient country of Her
 ## The Story  ##
 You have lived in this town your entire life. Your parents were part of the town guard and were always there to protect you. Until they weren't. 
 
-Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of youngsters who need to protect the children still alive in your town. 
+Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of teenagers who need to protect the younger children still alive in your town. 
 
 As you comb through the rubble of your home, you find something belonging to your parents... you will start the game with some of their equipment. 
 
@@ -26,7 +26,7 @@ Before you start play, consider the following:
 
 ### Table Rules ###
 
-- Dont be a dick!
+- **Don't be a dick!**
 - Use common sense! Don't be that person!
 - Timeout: if you are uncomfortable with anything that happens in the game, just say timeout and the DM will take a break and give everyone a chance to address the issue.
 - By default, PvP is not allowed. No non-consensual PvP. If the situation requires PvP, try to make it non-lethal. Includes touching other peoples possessions.
@@ -34,7 +34,7 @@ Before you start play, consider the following:
 #### Table Talk ####
 All non-rules discussion will be considered to be said in game. Unless your character has telepathy, they are not able to share strategy without others hearing. 
 
-If you are not in the current scene or unconsious, please consider muting yourself. Speaking up regarding rules mistakes is allowed, speaking up because of missed queues or strategy is not allowed. 
+If you are not in the current scene or unconscious, please consider muting yourself. Speaking up regarding rules mistakes is allowed, speaking up because of missed queues or strategy is not allowed. 
 
 Examples:
 - Allowed:
@@ -51,7 +51,7 @@ Players can nominate another player to gain inspiration.
 
 The inspired player can roll a D4 and add the number rolled to one ability check, attack roll, or saving throw it makes or that their character is present for. Once the Inspiration die is rolled, it is lost. A player can have only one Inspiration die at a time.
 
-Note that this is similar to how Bardic inspiration works, however Bardic Inspiration needs to be used before the roll is declaired a pass or fail. 
+Note that this is similar to how Bardic inspiration works, however Bardic Inspiration needs to be used before the roll is declared a pass or fail. 
 
 #### Flanking ####
 
@@ -69,7 +69,7 @@ If you have an empty hand, you can draw and drink a potion as a bonus action or 
 #### Passing Items ####
 
 - You can drop an item as a free action anytime. 
-- You can place an item carefully, or pass an item to someone as an action. 
+- You can place an item carefully or pass an item to someone as an action. 
 - You can catch an item being passed to you if you use your reaction. 
 - You can pick up a dropped non-heavy item by using your action, OR your full movement. 
 
@@ -86,7 +86,7 @@ Players may opt for a lower initiative if they wish.
 I will assume you are always stealthing if you do not say otherwise. If you are entering an area where it matters HOW stealthy you are being, I will ask you to roll stealth. 
 
 #### Ammunition ####
-Please remember to track the ammount of ammunition you are using. At the end of an encounter you can recover half of your spent arrows, assuming that you were firing at things that would not destroy an arrow. 
+Please remember to track the amount of ammunition you are using. At the end of an encounter you can recover half of your spent arrows, assuming that you were firing at things that would not destroy an arrow. 
 
 #### Rests ####
 
@@ -94,11 +94,17 @@ Long Rests require a place with a shelter and at least 8 hours long, during whic
 
 Short rests require at least 1 hour, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
-Generally speaking, a short or long rest cannot be taken is hostile territory unless you find a secure location. Instead you make take a "Breather", which only takes 10 minutes and allows you to roll one hit dice for healing. Other abilities do not reset on a Breather. 
+Generally speaking, a short or long rest cannot be taken is hostile territory unless you find a secure location. Instead you make take a "Breather", which only takes 10 minutes and allows you to roll one hit dice for healing _as well as_ using actions to do other minor things such as drinking additional potions. Other abilities do not reset on a Breather. 
 
 #### Rule of Cool ####
 
-If you want to do something really cool, but not really something covered by the rules, please ask and I will consider it. Typically something allowed by this rule cannot be repeated. 
+If you want to do something really cool, but not really something covered by the rules, please ask and I will consider it. Typically, something allowed by this rule cannot be repeated. 
+
+#### Metal and Currency ####
+
+Metal is rare in this setting and their currency is actually made from bone and ceramic. This make the coins much lighter and we will use the "Ignore Coin Weight" setting when creating characters. Also currency forgery in this setting is basically non existant because of the difficulty of engraving ceramic with specific emblems without the proper tools. 
+
+For simplicity, I will still refer to currency as gold, etc. but it is not actually _gold_. 
 
 #### Mundane Purchases ####
 
@@ -107,7 +113,7 @@ It is assumed that your characters will always loot monsters and collect the sil
 
 ## The Setting ##
 
-The adventurers begin in the town of Farwater. The town has an inn and access to basic goods. The town can be upgraded with the resources you earn from your adventuring. The DMs have access to an objective hex map, but players and their characters do not know the exact layout of the world, and thus must figure out the layout of the land based on their adventures.
+The adventurers begin in the town of Farwater. The town once had an inn and access to basic goods, but at the start of the campaign it will not. The town can be restored and upgraded with the resources you earn from your adventuring. The DMs have access to an objective hex map, but players and their characters do not know the exact layout of the world, and thus must figure out the layout of the land based on their adventures.
 
 ## Part 1. Character Creation ##
 The West Dunes has guidelines for character creation. These rules help to keep the game fair and balanced for everyone involved. Some decisions were made based on the setting and story. 
@@ -120,7 +126,7 @@ We will use DNDBeyond for our Character Sheets.
 
 #### Player Ranks and Starting Level ####
 
-In addition to Character Levels, players will have ranks in this game. If a player manages to get a character to specific levels, they are able to rank up. This means that if they need to create a new character they will have a new level to choose from to create the character at. 
+In addition to Character Levels, players will have ranks in this game. If a player manages to get a character to specific levels, they are able to rank up. This means that if they need to create a new character, they will have a new level to choose from to create the character at. 
 
 Player Rank | Highest Level Reached | New Starting Level
 ------------ | ------------- | -------------
@@ -138,7 +144,7 @@ The settlers of Farwater believe in a monotheistic god they refer to as "Ra" and
 
 You may create a single backup character. That character may be used for RP purposes only, until your primary character dies or is permanently retired. 
 
-New characters should have a dissimilar persona and name from your previous character, at the discretion of the DM.
+New characters should have a dissimilar persona and first name from your previous character, at the discretion of the DM.
 
 ### Requesting a Quest ###
 
@@ -146,7 +152,7 @@ Post your request in Discord. We will typically want 3-5 players for any given q
 
 ### Quest Summary ###
 
-Every player that posts a quest summary receives a DM Inspiration point that can be used in their next quest to reroll any Saving throw, Ability Check, Attack roll or Skill check.. Session summaries are posted in the #session-summaries channel.
+Every player that posts a quest summary receives a DM Inspiration point that can be used in their next quest to reroll any Saving throw, Ability Check, Attack roll or Skill check. Session summaries are posted in the #session-summaries channel.
 
 ## Growth ##
 
