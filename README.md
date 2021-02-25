@@ -9,12 +9,18 @@ All rules here are subject to change. If any wording is unclear or misunderstood
 
 Welcome to Farwater, a small outpost in the center of the ancient country of Herdaz. Although not known to the inhabitants of Farwater, it cannot be said that no one has explored Herdaz before. Great dangers lurk in the wilderness for the brave, curious, and greedy.
 
-## The Story  ##
+## The Story in the South  ##
 You have lived in this town your entire life. Your parents were part of the town guard and were always there to protect you. Until they weren't. 
 
-Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of teenagers who need to protect the younger children still alive in your town. 
+Recently a group of dragons were attacking a nearby settlement and all adults were dispatched to help. While they were out, another large dragon attacked your home and most buildings were destroyed. Your parents did not return and you are now you are part of a group of teenagers who need to protect the younger children still alive in your town. As you look to the north you can still see shadows and lightning high in the clouds, beyond the great mountain wall. 
 
 As you comb through the rubble of your home, you find something belonging to your parents... you will start the game with some of their equipment. 
+
+## Campaign Length  ##
+
+This is a sandbox with no fixed length. 
+
+I currently have plans to bring south characters to approximately level 4 then the game will open up to other DMs to run additional south or northern groups. 
 
  # General Information #
 This section covers the basic information and general rules of the campaign. Welcome and enjoy!
@@ -51,9 +57,8 @@ I want to address these topics to avoid any discomfort in game.
 **Attraction** - Teenagers have hormones and this can be mentioned, but generally speaking the group will consider each other family. 
 **Sexual Content** - There are no orientation taboos in this setting and this will not be a game to explore romantic relationships. 
 **Prejudice** - This setting has "Good" races and "Evil" races, and your characters might have preconcieved notions about the other side. 
-
-**Slavery**
-**Torture**
+**Slavery** - There is no history of slavery in this world and it should not be part of anyones backstory. 
+**Torture** - Creatures both good and evil will not torture in this setting. 
 
 
 
@@ -185,6 +190,16 @@ For simplicity, I will still refer to currency as gold, etc. but it is not actua
 #### Mundane Purchases ####
 
 It is assumed that your characters will always loot monsters and collect the silver and copper. I will not be rolling for these types of currency. In exchange, you will always have pocket change for your own mundane purchases, such as a couple of beers, stew, etc. Anything that costs a gold or more still needs to be paid, such as buying a round for the whole bar. 
+
+#### Mounts and Pets #### 
+
+**Mounts** - If you find and successfully tame a mount, you are allowed to bring it with you following the normal rules of the game. 
+**Pets** - The wildlife in this setting are truely wild. Only classes that grant a pet will be allowed. There will be no pets just for flavour. 
+
+#### Sidekicks #### 
+
+At the start of the game, there are 4 NPCs in the village. After your 
+
 
 
 ## The Setting ##
