@@ -22,15 +22,31 @@ This is a sandbox with no fixed length.
 
 I currently have plans to bring south characters to approximately level 4 then the game will open up to other DMs to run additional south or northern groups. 
 
- # General Information #
+#### Player Expectations ####
+
+What you can expect:
+- Fun Interactions
+- Cooperative Gameplay
+- Space for RP focused characters
+- Space for Min/Max characters
+- Playing a character that gets along with the group
+
+What you should not expect:
+- All the loot
+- Killing everything
+- Stealing from everyone you see
+- Playing a loner character
+
+#### Game Balance ####
+
+Generally speaking, the encounters closer to Farwater will be lower difficulty than ones further away. However, you will occationally find things that you are not indended to fight at your current level that it might be better for you to avoid and just remember where it was. 
+
+# General Information #
 This section covers the basic information and general rules of the campaign. Welcome and enjoy!
 
-
-## General Rules ##
+## Table Rules ##
 
 Before you start play, consider the following:
-
-### Table Rules ###
 
 - **Don't be a dick!**
 - Use common sense! Don't be that person!
@@ -59,32 +75,6 @@ I want to address these topics to avoid any discomfort in game.
 **Prejudice** - This setting has "Good" races and "Evil" races, and your characters might have preconcieved notions about the other side. 
 **Slavery** - There is no history of slavery in this world and it should not be part of anyones backstory. 
 **Torture** - Creatures both good and evil will not torture in this setting. 
-
-
-
-
-
-
-### Player Behavior ###
-
-#### Player Expectations ####
-
-What you can expect:
-- Fun Interactions
-- Cooperative Gameplay
-- Space for RP focused characters
-- Space for Min/Max characters
-- Playing a character that gets along with the group
-
-What you should not expect:
-- All the loot
-- Killing everything
-- Stealing from everyone you see
-- Playing a loner character
-
-#### Game Balance ####
-
-Generally speaking, the encounters closer to Farwater will be lower difficulty than ones further away. However, you will occationally find things that you are not indended to fight at your current level that it might be better for you to avoid and just remember where it was. 
 
 #### Intoxication ####
 
@@ -116,8 +106,7 @@ Please do not try to look up the stats for Monsters you see. Even if you remembe
 
 In game, Characters will be able to attempt to learn more about monsters with appropriate rolls. 
 
-
-### Game Rules ###
+## Game Rules ##
 
 #### Earning XP and Leveling Up ####
 
@@ -125,7 +114,7 @@ XP will always be awarded at the end of a session for the obstacles you took par
 
 Because XP is always awarded at the end of sessions, that is also when leveling up will happen. 
 
-### House Rules ###
+## House Rules ##
 
 #### Inspiration ####
 Players can nominate another player to gain inspiration. 
@@ -136,7 +125,7 @@ Note that this is similar to how Bardic inspiration works, however Bardic Inspir
 
 #### Flanking ####
 
-When making a melee attack the attacker gets +1 on their attack roll for EACH other creature flanking their target. 
+When making a melee attack the attacker gets +1 on their attack roll for having other creature flanking their target, . 
 
 To be counted as flanking a creature must be:
 - able to attack the target
@@ -221,7 +210,7 @@ At the start of the game, there are 4 NPCs in Farwater as well as many unnamed c
 
 The adventurers begin in the town of Farwater. The town once had an inn and access to basic goods, but at the start of the campaign it will not. The town can be restored and upgraded with the resources you earn from your adventuring. The DMs have access to an objective hex map, but players and their characters do not know the exact layout of the world, and thus must figure out the layout of the land based on their adventures.
 
-## Part 1. Character Creation ##
+## Character Creation ##
 The West Dunes has guidelines for character creation. These rules help to keep the game fair and balanced for everyone involved. Some decisions were made based on the setting and story. 
  
 [Character Creation Guide](https://github.com/Travis101/WestDunes/blob/main/CharacterCreation.md)
