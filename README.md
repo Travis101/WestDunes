@@ -44,6 +44,82 @@ Examples:
   - Player: "I don't want to move because they will get an attack of opportunity" 
   - Reply: "That monster already used their reaction so you can" 
 
+#### Ethics ####
+I want to address these topics to avoid any discomfort in game. 
+
+**Gender** - There are no gender norms in this setting. Anyone can do anything. The God of this setting is gender neutral. 
+**Attraction** - Teenagers have hormones and this can be mentioned, but generally speaking the group will consider each other family. 
+**Sexual Content** - There are no orientation taboos in this setting and this will not be a game to explore romantic relationships. 
+**Prejudice** - This setting has "Good" races and "Evil" races, and your characters might have preconcieved notions about the other side. 
+
+**Slavery**
+**Torture**
+
+
+
+
+
+
+### Player Behavior ###
+
+#### Player Expectations ####
+
+What you can expect:
+- Fun Interactions
+- Cooperative Gameplay
+- Space for RP focused characters
+- Space for Min/Max characters
+- Playing a character that gets along with the group
+
+What you should not expect:
+- All the loot
+- Killing everything
+- Stealing from everyone you see
+- Playing a loner character
+
+#### Game Balance ####
+
+Generally speaking, the encounters closer to Farwater will be lower difficulty than ones further away. However, you will occationally find things that you are not indended to fight at your current level that it might be better for you to avoid and just remember where it was. 
+
+#### Intoxication ####
+
+Playing while slightly intoxicated is fine. Of you find yourself unexpectedly unable to pay attention please excuse yourself. 
+
+#### Player Attention ####
+
+Please do not do other activities while playing. Things can happen on other players turns that impact you and it is disruptive to have to repeat situations over and over. 
+
+#### Disruptive Topics ####
+
+This is fine before the sessions starts. Please refrain from disrupting the game play by mentioning real-life topics while the game is running. 
+
+#### Unannounced Dice Rolls ####
+
+If you roll a dice without being asked, that roll will only be for flavour. If you want an in game roll with concequences, confirm with the DM first. 
+
+#### Rule Debates ####
+
+If we do not agree on a rule, the DM will make a ruling in the moment to move the game forward, but we will note the topic and confirm between sessions. 
+
+#### Spotlight Sharing ####
+
+This is a game that is more about the group, and less about individuals. There will be space to explore personal backstories, but in generaly scenes will be together as a group. 
+
+#### Meta Knowledge ####
+
+Please do not try to look up the stats for Monsters you see. Even if you remember something similar, many will be tweaked for the purposes of this setting. 
+
+In game, Characters will be able to attempt to learn more about monsters with appropriate rolls. 
+
+
+### Game Rules ###
+
+#### Earning XP and Leveling Up ####
+
+XP will always be awarded at the end of a session for the obstacles you took part in overcoming. For this can mean combat, diplomacy, or other means. For other encounters XP will be awarded based on difficulty. XP is not typically awarded for trivial things (e.g. attacking field mice who are not an obstacle).
+
+Because XP is always awarded at the end of sessions, that is also when leveling up will happen. 
+
 ### House Rules ###
 
 #### Inspiration ####
