@@ -11,7 +11,7 @@ Race selection and alignment is not exactly the same as in the Forgotten Realms.
 ---
 
 <table>
-<tr><th>GOOD West Dunes game </th><th>Evil West Dunes game</th></tr>
+<tr><th>Southern (Good) West Dunes game </th><th>Northern (Evil) West Dunes game</th></tr>
 <tr><td>
 
 Common | Uncommon
