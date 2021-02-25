@@ -208,16 +208,14 @@ At the DM's discression, you are also able to "Take 20", which means you will ta
 **Mounts** - If you find and successfully tame a mount, you are allowed to bring it with you following the normal rules of the game. 
 **Pets** - The wildlife in this setting are truely wild. Only classes that grant a pet will be allowed. There will be no pets just for flavour. 
 
-#### Sidekicks #### 
+#### NPCs #### 
 
-If your group wishes, they may have one sidekick accompany them on a quest. This sidekick will be run by the DM. There are certian quests that a sidekick will not be an option because of story reasons, and there may be some quests that the DM needs to select a certain sidekick for the group (your biggest fan!)
+At the start of the game, there are 4 NPCs in Farwater as well as many unnamed children, and as you explore you may find others. 
 
-At the start of the game, there are 4 NPCs in the village which are available as sidekicks, and as you explore you may find others. 
-
-- Burnise - Female Fire Genasi - Scout
-- Carp - Male Halfling - Farmer
-- Clark - Male Minotaur - Carpenter
-- Dil - Female Half Orc - Healer.
+- Burnise - Female Fire Genasi - 10 year old Scout
+- Carp - Male Halfling - 10 year old Farmer
+- Clark - Male Minotaur - 10 year old Carpenter
+- Dil - Female Half Orc - 10 year old Medic
 
 ## The Setting ##
 
