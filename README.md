@@ -191,6 +191,18 @@ For simplicity, I will still refer to currency as gold, etc. but it is not actua
 
 It is assumed that your characters will always loot monsters and collect the silver and copper. I will not be rolling for these types of currency. In exchange, you will always have pocket change for your own mundane purchases, such as a couple of beers, stew, etc. Anything that costs a gold or more still needs to be paid, such as buying a round for the whole bar. 
 
+#### Ready an Action ####
+
+In initiative, in place of your action, you can "ready an action". You will say the trigger and the action you will have the option to take when the trigger is met. The player is responsible for tracking their triggers and calling out when they happen. 
+
+#### Party Skill Checks ####
+
+A group will not be able to attempt a roll for something specific more than twice and a single character cannot attempt it more than once. 
+
+A Character with proficiency can take the help action to provide advantage on a roll. 
+
+At the DM's discression, you are also able to "Take 20", which means you will take 20 minutes to perform the action and the result will be a 20 with no modifiers. 
+
 #### Mounts and Pets #### 
 
 **Mounts** - If you find and successfully tame a mount, you are allowed to bring it with you following the normal rules of the game. 
@@ -198,9 +210,14 @@ It is assumed that your characters will always loot monsters and collect the sil
 
 #### Sidekicks #### 
 
-At the start of the game, there are 4 NPCs in the village. After your 
+If your group wishes, they may have one sidekick accompany them on a quest. This sidekick will be run by the DM. There are certian quests that a sidekick will not be an option because of story reasons, and there may be some quests that the DM needs to select a certain sidekick for the group (your biggest fan!)
 
+At the start of the game, there are 4 NPCs in the village which are available as sidekicks, and as you explore you may find others. 
 
+- Burnise - Female Fire Genasi - Scout
+- Carp - Male Halfling - Farmer
+- Clark - Male Minotaur - Carpenter
+- Dil - Female Half Orc - Healer.
 
 ## The Setting ##
 
