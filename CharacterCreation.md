@@ -46,7 +46,7 @@ Other races are *currently* unknown to the settlers of this setting, but as the 
 
 # Class # 
 You are free to select any official (not UA) class and subclass but I would caution against anything that interacts with water, or the weather as those abilities will not work in this setting. 
-You are able able to use the Custom Lineage options. If you do, please declare the race you are appearing as in your description notes. 
+You are able to use the Custom Lineage options. If you do, please declare the race you are appearing as in your description notes. 
 
 # Spells #
 No official spells are banned, BUT you should know that spells that create water or food will not work at levels 1-3. 
@@ -91,14 +91,14 @@ Do NOT add starting equipment as normal, please instead manually add:
   - A Holy Symbol
   - Horn
   - Crowbar
-  - a bottle of black in and a quill
+  - a bottle of black ink and a quill
   - A set of artisan’s tools with which you are proficient
 
 - Choose one (1) from the rubble around the town:
   - Club
   - Greatclub
 
-Yes, this means that you are not starting with many resources you might be used to, such as rations, rope, torches and likely armor. Hopefully you will find some!
+Yes, this means that you are not starting with many resources you might be used to, such as rations, rope, torches and likely armor. Hopefully, you will find some!
 
 # Feats #
 Currently no feats are banned. 
